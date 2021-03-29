@@ -1,2 +1,21 @@
+# EE_2.06_SciProg Course Material
+# R. Becker, 2021-03-29, V001
 
-*/.ipynb_checkpoints
+# Use .gitignore to not share all solutions at once.
+# By default ignore all directories containing solutions denoted by trailing pattern _soln
+
+*_soln/
+*_dev/
+*_old/
+*_INCLASS/
+tmp/
+
+*.ipynb_checkpoints/
+
+*_old
+*checkpoint.ipynb
+
+
+# Exceptions allow to disseminate the solutions selectively.
+
+
