@@ -6,9 +6,7 @@ This is a compulsory course of the [**Environment & Energy Program**](https://ww
 
 Course manager and instructor: Rolf Becker.
 
-We use this Git repository to disseminate the course material. It would be best if you used a GitLab client to **clone the repository** regularly.
-
-## Directories
+## Directories / TOC
 
 * nb00xx HPL (selection of Hans-Petter Langtangen's fundamentals, partly modified)
 * nb01xx More basics
@@ -21,9 +19,11 @@ We use this Git repository to disseminate the course material. It would be best 
 * nb08xx Future Applications
 * nb09xx Python Intro, Stanford Course CS231n
 
+## Git Repository
 
+We use this is a Git repository to disseminate the course material. Please use a Git client to **clone this repository** regularly.
 
-## What is Git?
+### What is Git?
 
 
 **Git** is a distributed version control system for source code management. It provides a set of commands to interact with a local repository as well as a remote repository (server). **GitHub** and **GitLab** are two server implementations for Git often used as source-code-hosting facilities.
