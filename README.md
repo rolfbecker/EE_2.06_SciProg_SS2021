@@ -2,7 +2,7 @@
 
 **Lecture and Tutorial Material for Scientific Programming (EE_2.06, SciProg)**
 
-This is a compulsory course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [Rhine-Waal University of Applied Sciences (HSRW)](https://www.hsrw.eu/). 
+This is a compulsory course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) <br> at [Rhine-Waal University of Applied Sciences (HSRW)](https://www.hsrw.eu/). 
 
 Course manager and instructor: Rolf Becker.
 
