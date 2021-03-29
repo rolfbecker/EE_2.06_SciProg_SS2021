@@ -1,4 +1,4 @@
-# SciProg2020
+# SciProg SS2021: Fundamentals of Scientific Programing 
 
 **Lecture and Tutorial Material for Scientific Programming (EE_2.06), Env. & Energy Program, HSRW.eu**
 
