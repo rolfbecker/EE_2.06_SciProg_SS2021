@@ -1,12 +1,12 @@
-# Welcome to EE_2.06 Scientific Programming (aka SciProg)!
+# SciProg SS2021: Fundamentals of Scientific Programing
 
-**Lecture and Tutorial Material for Scientific Programming (EE_2.06), Env. & Energy Program, HSRW.eu**
+**Lecture and Tutorial Material for Scientific Programming (EE_2.06, SciProg)**
 
 This is a compulsory course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [Rhine-Waal University of Applied Sciences (HSRW)](https://www.hsrw.eu/). 
 
-Course manager and instructor: Rolf Becker. 
+Course manager and instructor: Rolf Becker.
 
-We use this Git repository to disseminate the course material. It would be best if you used a GitLab client to **clone the repository** regularly. 
+We use this Git repository to disseminate the course material. It would be best if you used a GitLab client to **clone the repository** regularly.
 
 ## Directories
 
@@ -29,13 +29,13 @@ We use this Git repository to disseminate the course material. It would be best 
 **Git** is a distributed version control system for source code management. It provides a set of commands to interact with a local repository as well as a remote repository (server). **GitHub** and **GitLab** are two server implementations for Git often used as source-code-hosting facilities.
 
 
-### Install a Git Client 
+### Install a Git Client
 
-The are many different Git clients. The clients can be used to interact with both GitLab and GitHub. The purists use the command line interface (CLI). 
+The are many different Git clients. The clients can be used to interact with both GitLab and GitHub. The purists use the command line interface (CLI).
 
-For now we recommend to install both, 
+For now we recommend to install both,
 1. The CLI based  [**Git client**](https://git-scm.com/downloads) and
-1. the GUI based [**GitHub Desktop**](https://desktop.github.com/). 
+1. the GUI based [**GitHub Desktop**](https://desktop.github.com/).
 
 ### Clone the Repository
 
@@ -57,7 +57,7 @@ With **GitHub Desktop**:
 (https://i.stack.imgur.com/vpVBd.png)
 
 <!--
-#### View 2 
+#### View 2
 ![Git Workflow 2](https://kevintshoemaker.github.io/StatsChats/GIT2.png "Git Workflow")
 (Diagram by Kevin T. Shoemaker, https://kevintshoemaker.github.io/StatsChats/GIT2.png)
 -->
@@ -70,5 +70,5 @@ With **GitHub Desktop**:
 ### YouTube Videos by **David Mahler**
 
 * [Introduction to Git - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
-* [Introduction to Git - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI) 
+* [Introduction to Git - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI)
 * [Introduction to Git - Remotes] (https://www.youtube.com/watch?v=Gg4bLk8cGNo)
