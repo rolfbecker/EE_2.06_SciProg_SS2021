@@ -4,5 +4,6 @@ blabla
 
 blubb blubb
 
-$\int_0$
+Integral or math rendering does not work.
+
 
