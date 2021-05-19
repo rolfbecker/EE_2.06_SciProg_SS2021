@@ -10,6 +10,9 @@
 *_INCLASS/
 tmp/
 
+*_soln.ipynb
+*_dev.ipynb
+
 *.ipynb_checkpoints/
 
 *_old
@@ -17,5 +20,4 @@ tmp/
 
 
 # Exceptions allow to disseminate the solutions selectively.
-
 
